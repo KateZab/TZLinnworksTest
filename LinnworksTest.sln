@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinnworksTest", "LinnworksTest\LinnworksTest.csproj", "{9D334A4B-2126-44F6-9C09-4D1C7C51C2E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{30F857AD-05C4-46CA-A2B7-D5545EDCC088}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GUITEST", "GUITEST\GUITEST.csproj", "{F74A7386-D0FF-473E-918E-D74B48D6F406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D334A4B-2126-44F6-9C09-4D1C7C51C2E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D334A4B-2126-44F6-9C09-4D1C7C51C2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D334A4B-2126-44F6-9C09-4D1C7C51C2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D334A4B-2126-44F6-9C09-4D1C7C51C2E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30F857AD-05C4-46CA-A2B7-D5545EDCC088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F857AD-05C4-46CA-A2B7-D5545EDCC088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F857AD-05C4-46CA-A2B7-D5545EDCC088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F857AD-05C4-46CA-A2B7-D5545EDCC088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F74A7386-D0FF-473E-918E-D74B48D6F406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74A7386-D0FF-473E-918E-D74B48D6F406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74A7386-D0FF-473E-918E-D74B48D6F406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74A7386-D0FF-473E-918E-D74B48D6F406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BF7BBD4-F470-43EF-A748-302182E0402F}
+	EndGlobalSection
+EndGlobal

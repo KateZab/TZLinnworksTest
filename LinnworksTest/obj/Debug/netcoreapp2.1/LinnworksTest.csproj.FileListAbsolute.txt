@@ -1,0 +1,52 @@
+E:\TZ\LinnworksTest (1)\LinnworksTest\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\TZ\LinnworksTest (1)\LinnworksTest\bin\Debug\netcoreapp2.1\appsettings.json
+E:\TZ\LinnworksTest (1)\LinnworksTest\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\TZ\LinnworksTest (1)\LinnworksTest\bin\Debug\netcoreapp2.1\LinnworksTest.deps.json
+E:\TZ\LinnworksTest (1)\LinnworksTest\bin\Debug\netcoreapp2.1\LinnworksTest.runtimeconfig.json
+E:\TZ\LinnworksTest (1)\LinnworksTest\bin\Debug\netcoreapp2.1\LinnworksTest.runtimeconfig.dev.json
+E:\TZ\LinnworksTest (1)\LinnworksTest\bin\Debug\netcoreapp2.1\LinnworksTest.dll
+E:\TZ\LinnworksTest (1)\LinnworksTest\bin\Debug\netcoreapp2.1\LinnworksTest.pdb
+E:\TZ\LinnworksTest (1)\LinnworksTest\bin\Debug\netcoreapp2.1\LinnworksTest.Views.dll
+E:\TZ\LinnworksTest (1)\LinnworksTest\bin\Debug\netcoreapp2.1\LinnworksTest.Views.pdb
+E:\TZ\LinnworksTest (1)\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.csprojAssemblyReference.cache
+E:\TZ\LinnworksTest (1)\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.RazorAssemblyInfo.cache
+E:\TZ\LinnworksTest (1)\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.RazorAssemblyInfo.cs
+E:\TZ\LinnworksTest (1)\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.AssemblyInfoInputs.cache
+E:\TZ\LinnworksTest (1)\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.AssemblyInfo.cs
+E:\TZ\LinnworksTest (1)\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.TagHelpers.input.cache
+E:\TZ\LinnworksTest (1)\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.TagHelpers.output.cache
+E:\TZ\LinnworksTest (1)\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.RazorCoreGenerate.cache
+E:\TZ\LinnworksTest (1)\LinnworksTest\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+E:\TZ\LinnworksTest (1)\LinnworksTest\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\TZ\LinnworksTest (1)\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.RazorTargetAssemblyInfo.cache
+E:\TZ\LinnworksTest (1)\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.RazorTargetAssemblyInfo.cs
+E:\TZ\LinnworksTest (1)\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.Views.pdb
+E:\TZ\LinnworksTest (1)\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.dll
+E:\TZ\LinnworksTest (1)\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.pdb
+E:\TZ\LinnworksTest (1)\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.csproj.CopyComplete
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\bin\Debug\netcoreapp2.1\appsettings.json
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\bin\Debug\netcoreapp2.1\LinnworksTest.deps.json
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\bin\Debug\netcoreapp2.1\LinnworksTest.runtimeconfig.json
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\bin\Debug\netcoreapp2.1\LinnworksTest.runtimeconfig.dev.json
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\bin\Debug\netcoreapp2.1\LinnworksTest.dll
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\bin\Debug\netcoreapp2.1\LinnworksTest.pdb
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\bin\Debug\netcoreapp2.1\LinnworksTest.Views.dll
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\bin\Debug\netcoreapp2.1\LinnworksTest.Views.pdb
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.csprojAssemblyReference.cache
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.RazorAssemblyInfo.cache
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.RazorAssemblyInfo.cs
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.AssemblyInfoInputs.cache
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.AssemblyInfo.cs
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.TagHelpers.input.cache
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.TagHelpers.output.cache
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.RazorCoreGenerate.cache
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.RazorTargetAssemblyInfo.cache
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.RazorTargetAssemblyInfo.cs
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.Views.pdb
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.dll
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.pdb
+E:\TZ\LinnworksTest (1) — копия\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.csproj.CopyComplete
